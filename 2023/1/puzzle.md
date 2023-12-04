@@ -45,9 +45,4 @@ In this example, the calibration values are 29, 83, 13, 24, 42, 14, and 76. Addi
 
 What is the sum of all of the calibration values?
 
-Answer: 
- 
-
-Although it hasn't changed, you can still get your puzzle input.
-
-You can also [Share] this puzzle.
+Your puzzle answer was 54719.
